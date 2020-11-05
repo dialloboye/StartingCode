@@ -1,0 +1,6 @@
+# Target labels
+ ZdZdPlotting
+# Source files and their labels
+/afs/cern.ch/work/d/diboye/testForZainab/build/x86_64-centos7-gcc8-opt/jobOptions/ZdZdPlotting/ZdZdPlottingAlgJobOptions.py
+/afs/cern.ch/work/d/diboye/testForZainab/ZdZdPostProcessing/ZdZdPlotting/share/ZdZdPlottingAlgJobOptions.py
+/afs/cern.ch/work/d/diboye/testForZainab/build/x86_64-centos7-gcc8-opt/jobOptions/ZdZdPlotting/ZdZdPlottingAlgJobOptions.py.rule

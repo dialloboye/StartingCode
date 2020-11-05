@@ -1,0 +1,22 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/afs/cern.ch/work/d/diboye/testForZainab/build/x86_64-centos7-gcc8-opt/jobOptions/GeneralCamAlgs/GeneralCamAlgsAlgJobOptions.py"
+		},
+		{
+			"file" : "/afs/cern.ch/work/d/diboye/testForZainab/ZdZdPostProcessing/PhysicsAnalysis/AnalysisCam/GeneralCamAlgs/share/GeneralCamAlgsAlgJobOptions.py"
+		},
+		{
+			"file" : "/afs/cern.ch/work/d/diboye/testForZainab/build/x86_64-centos7-gcc8-opt/jobOptions/GeneralCamAlgs/GeneralCamAlgsAlgJobOptions.py.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"GeneralCamAlgs"
+		],
+		"name" : "GeneralCamAlgsJobOptInstall"
+	}
+}

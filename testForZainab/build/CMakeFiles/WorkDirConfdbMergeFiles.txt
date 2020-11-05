@@ -1,0 +1,4 @@
+/afs/cern.ch/work/d/diboye/testForZainab/build/x86_64-centos7-gcc8-opt/lib/libAnalysisCamEvent.confdb
+/afs/cern.ch/work/d/diboye/testForZainab/build/x86_64-centos7-gcc8-opt/lib/libGeneralCamTools.confdb
+/afs/cern.ch/work/d/diboye/testForZainab/build/x86_64-centos7-gcc8-opt/lib/libGeneralCamAlgs.confdb
+/afs/cern.ch/work/d/diboye/testForZainab/build/x86_64-centos7-gcc8-opt/lib/libZdZdPlotting.confdb

@@ -1,0 +1,6 @@
+# Target labels
+ GeneralCamAlgs
+# Source files and their labels
+/afs/cern.ch/work/d/diboye/testForZainab/build/x86_64-centos7-gcc8-opt/jobOptions/GeneralCamAlgs/GeneralCamAlgsAlgJobOptions.py
+/afs/cern.ch/work/d/diboye/testForZainab/ZdZdPostProcessing/PhysicsAnalysis/AnalysisCam/GeneralCamAlgs/share/GeneralCamAlgsAlgJobOptions.py
+/afs/cern.ch/work/d/diboye/testForZainab/build/x86_64-centos7-gcc8-opt/jobOptions/GeneralCamAlgs/GeneralCamAlgsAlgJobOptions.py.rule

@@ -1,0 +1,19 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/afs/cern.ch/work/d/diboye/testForZainab/build/x86_64-centos7-gcc8-opt/include/GeneralCamTools"
+		},
+		{
+			"file" : "/afs/cern.ch/work/d/diboye/testForZainab/build/x86_64-centos7-gcc8-opt/include/GeneralCamTools.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"GeneralCamTools"
+		],
+		"name" : "GeneralCamToolsHeaderInstall"
+	}
+}

@@ -1,0 +1,6 @@
+# Target labels
+ AnalysisCamEvent
+# Source files and their labels
+/afs/cern.ch/work/d/diboye/testForZainab/build/x86_64-centos7-gcc8-opt/python/AnalysisCamEvent/ExecuteTimeEstimator.py
+/afs/cern.ch/work/d/diboye/testForZainab/ZdZdPostProcessing/PhysicsAnalysis/AnalysisCam/AnalysisCamEvent/python/ExecuteTimeEstimator.py
+/afs/cern.ch/work/d/diboye/testForZainab/build/x86_64-centos7-gcc8-opt/python/AnalysisCamEvent/ExecuteTimeEstimator.py.rule

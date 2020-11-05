@@ -1,6 +1,5 @@
 #directories to ignore
 WorkArea
-/build/*
 InstallArea
 genConf
 x86_64-slc6-gcc49-opt

@@ -1,0 +1,19 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/afs/cern.ch/work/d/diboye/testForZainab/build/x86_64-centos7-gcc8-opt/python/AnalysisCamEvent/ExecuteTimeEstimator.pyc"
+		},
+		{
+			"file" : "/afs/cern.ch/work/d/diboye/testForZainab/build/x86_64-centos7-gcc8-opt/python/AnalysisCamEvent/ExecuteTimeEstimator.pyc.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"AnalysisCamEvent"
+		],
+		"name" : "AnalysisCamEventPythonBytecodeInstall"
+	}
+}

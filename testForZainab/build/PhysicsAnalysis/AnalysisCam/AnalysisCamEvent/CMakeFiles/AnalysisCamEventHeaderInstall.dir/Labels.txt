@@ -1,0 +1,5 @@
+# Target labels
+ AnalysisCamEvent
+# Source files and their labels
+/afs/cern.ch/work/d/diboye/testForZainab/build/x86_64-centos7-gcc8-opt/include/AnalysisCamEvent
+/afs/cern.ch/work/d/diboye/testForZainab/build/x86_64-centos7-gcc8-opt/include/AnalysisCamEvent.rule

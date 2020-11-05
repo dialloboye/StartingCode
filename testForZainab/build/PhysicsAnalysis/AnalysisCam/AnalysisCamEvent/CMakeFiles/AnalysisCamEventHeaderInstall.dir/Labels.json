@@ -1,0 +1,19 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/afs/cern.ch/work/d/diboye/testForZainab/build/x86_64-centos7-gcc8-opt/include/AnalysisCamEvent"
+		},
+		{
+			"file" : "/afs/cern.ch/work/d/diboye/testForZainab/build/x86_64-centos7-gcc8-opt/include/AnalysisCamEvent.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"AnalysisCamEvent"
+		],
+		"name" : "AnalysisCamEventHeaderInstall"
+	}
+}
