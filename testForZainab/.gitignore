@@ -1,0 +1,16 @@
+#directories to ignore
+WorkArea
+/build/*
+InstallArea
+genConf
+x86_64-slc6-gcc49-opt
+Makefile
+
+#Generic files to ignore
+*~
+*/cmt/setup.sh
+*/cmt/setup.csh
+*/cmt/cleanup.sh
+*/cmt/cleanup.csh
+*/cmt/install.*
+
